@@ -1,8 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="misc/Github_Banner.png">
-  <source media="(prefers-color-scheme: light)" srcset="misc/Github_Banner.png">
+  <source media="(prefers-color-scheme: dark)" srcset="misc/Github_Banner_Transparent">
+  <source media="(prefers-color-scheme: light)" srcset="misc/Github_Banner_Transparent">
 <p align="center">
-  <img width=50% alt="" src="misc/Github_Banner.png">
+  <img width=50% alt="" src="misc/Github_Banner_Transparent">
 </p>
 </picture>
 
